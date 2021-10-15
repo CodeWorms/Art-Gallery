@@ -1,0 +1,22 @@
+ /* Ignore */
+*{
+	text-align: center;
+}
+body{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+/* TODO : 
+	1. Remove all margin from the h2
+	2. Create a 'painting' class that has the     		following: 
+		a. A gray border of width 2px;
+		b. A very little border-radius
+		c. Some padding
+		d. A height of 300px and a width of 800px
+		e. Also preventing the image from getting distorted
+	3. Next add a different filter to each of the        images. You can use an online editor 
+*/
+
+/* Your Code Below */
